@@ -2,6 +2,8 @@
 
 This project analyzes provisional mid-year 2024 UK road collision data to identify patterns in 30mph roads such as severity and location. The insights aim to support road safety by identifying causes and  possible hotspots.
 
+
+
 **📊 Dataset Overview**
 
 Source: Department for Transport (DfT) – Road Safety Data
@@ -15,11 +17,13 @@ Status: Provisional and unvalidated
 Data Format: CSV
 
 
+
 **🎯 Project Objectives**
 
 Exploratory Data Analysis (EDA): Examine temporal and spatial trends in road collisions.
 
 Locate areas with high frequencies of severe incidents.
+
 
 
 **Tools & Technologies**
@@ -30,14 +34,24 @@ Development Environment: Jupyter Notebooks
 
 Version Control: Git
 
+
+
 **Key Findings**
 
 High volumes incidents on 30mph roads compared to other roads.
-Severity of incidents on 30mph were slight
+
+Severity of incidents on 30mph were slight.
+
 These incidents happened in good light and weather conditions.
-Incidents were prevalent in single carriageway
-Single carriageway junctions were prone to incidents in particular T and staggered junctions
+
+Incidents were prevalent in single carriageway.
+
+Single carriageway junctions were prone to incidents in particular T and staggered junctions.
+
 Considerable volume of incidents also happened away from junctions too
+
+
+
 
 **🔮 Future Work**
 

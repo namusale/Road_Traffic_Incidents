@@ -1,6 +1,6 @@
 ****🚦 UK Road Traffic Incidents Report – Mid-Year 2024****
 
-This project analyzes provisional mid-year 2024 UK road collision data to identify patterns in 30mph roads such as severity and location. The insights aim to support road safety by identifying causes and  possible hotspots.
+This project analyzes provisional mid-year 2024 UK road collision data with a focus on incidents occurring on 30mph roads. These roads are common in residential and urban environments, making them particularly relevant for road safety planning. The analysis examines incident severity, road and junction characteristics, and environmental conditions to identify patterns and potential risk factors.
 
 
 
@@ -20,9 +20,10 @@ Data Format: CSV
 
 **🎯 Project Objectives**
 
-Exploratory Data Analysis (EDA): Examine temporal and spatial trends in road collisions.
+Exploratory Data Analysis (EDA): Examine temporal patterns and incident characteristics on 30mph roads.
 
-Locate areas with high frequencies of severe incidents.
+
+Risk Context Identification: Assess road types, junction configurations, and environmental conditions associated with higher incident frequency and severity.
 
 
 
@@ -38,25 +39,24 @@ Version Control: Git
 
 **Key Findings**
 
-High volumes incidents on 30mph roads compared to other roads.
+A high proportion of recorded road traffic incidents occurred on 30mph roads compared with roads of higher speed limits.
 
-Severity of incidents on 30mph were slight.
+Incidents on 30mph roads were predominantly of slight severity.
 
-These incidents happened in good light and weather conditions.
+Most incidents occurred under good lighting and weather conditions, suggesting factors beyond poor visibility or adverse weather.
 
-Incidents were prevalent in single carriageway.
+Single carriageway roads accounted for a large share of incidents.
 
-Single carriageway junctions were prone to incidents in particular T and staggered junctions.
+Junctions on single carriageway roads—particularly T-junctions and staggered junctions—were associated with higher incident counts.
 
-Considerable volume of incidents also happened away from junctions too
-
+A substantial number of incidents also occurred away from junctions, indicating dispersed risk across the road network.
 
 
 
 **🔮 Future Work**
 
-Extended Analysis: Include additional factors such as vehicle types and driver demographics.
+Extended Analysis: Incorporate additional factors such as vehicle types and driver demographics.
 
-Dashboard Development: Create an interactive dashboard for real-time data exploration.
+Visualisation: Develop an interactive dashboard for exploratory analysis and communication of findings.
 
 

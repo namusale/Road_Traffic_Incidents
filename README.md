@@ -19,7 +19,7 @@ Data Format: CSV
 
 Exploratory Data Analysis (EDA): Examine temporal and spatial trends in road collisions.
 
-Hotspot Identification: Locate areas with high frequencies of severe incidents.
+Locate areas with high frequencies of severe incidents.
 
 
 **Tools & Technologies**
@@ -37,6 +37,7 @@ Severity of incidents on 30mph were slight
 These incidents happened in good light and weather conditions.
 Incidents were prevalent in single carriageway
 Single carriageway junctions were prone to incidents in particular T and staggered junctions
+Considerable volume of incidents also happened away from junctions too
 
 **🔮 Future Work**
 
